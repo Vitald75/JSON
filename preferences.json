@@ -1,0 +1,8 @@
+{ "my preferences": 
+	{ "movie": "Hard to die", 
+	  "serious": "Friends",
+	  "food": "Pizza",
+	  "season": ["Summer", "Winter", "Spring"],
+	  "country": "Spain"}
+}
+
