@@ -1,2 +1,7 @@
-first line
-second line
+{ "name" : "Vitali" ,  
+  "surname" : "Dolgoshei",
+  "age" : 46,
+  "home_pets_count" : ">20",
+  "home_pets" : ["cat","fish"],
+  "expected_salary" : "2000" }
+
